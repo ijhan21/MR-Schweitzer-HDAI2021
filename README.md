@@ -1,10 +1,9 @@
 # MR-Schweitzer-HDAI2021
 <br>
 
-# 성능평가 검증을 위한 실행 가이드
-
-## 심초음파 A2C A4C 모델 확인 
-## 참고) 첨부된 confirm jupyter notebook에 검증 코드를 작성했습니다.
+# 성능평가 검증을 위한 실행 가이드<br>
+## 심초음파 A2C A4C 모델 확인 <br>
+#### 참고) 첨부된 confirm jupyter notebook에 검증 코드를 작성했습니다.
 ## 개발환경 pytorch 1.10 opencv 4.5.4
 
 ### A2C : confirm_A2C.ipynb
